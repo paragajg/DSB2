@@ -1,0 +1,11 @@
+Installations
+1. Create profile on github.com
+2. Download and install Github desktop client.
+3. Clone paragajg/DSB2 repositry.
+    a. Click in clone tab
+    b. Open the Desktop tab
+4. Download and install Anaconda 3
+    a. Open Anaconda prompt from Program Folders / Startup menu
+    b. change directory to DSB2 using cd ....DSB2
+5. Launch Jupyter Notebook
+    a. type jupyter Notebook and ENTER
