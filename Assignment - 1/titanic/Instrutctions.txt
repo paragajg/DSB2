@@ -1,0 +1,16 @@
+Titanic Survival Prediction Challenge - Kaggle Competition
+
+Please Read Below Instructions Carefully Before Attempting the Assignment
+
+1. The participant needs to predict whether a passenger survived the Titanic Tragedy
+2. The prediction needs to be made for records in test.csv file
+3. Build your model using data from train.csv file
+4. It is expected that the participant should use hyper parameter tuning and explore multiple classification algorithms.
+5. After predicting on test.csv file the predictions needs to be saved in file format as mentioned in Kaggle for submission
+6. Code for storing file in correct format has been given in the sample notebook
+7. Use Sample notebook as a reference however it is expected that participant should use their own creative ways to build the model.
+
+Fore Details about the competition and submission kindly refer to details on the webpage of Kaggle competition for Titanic Survival data.
+
+Submission page - https://www.kaggle.com/c/titanic/submit
+Link: https://www.kaggle.com/c/titanic

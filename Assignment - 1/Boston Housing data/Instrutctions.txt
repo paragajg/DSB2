@@ -1,0 +1,13 @@
+Boston Housing Dataset
+
+Please Read Below Instructions Carefully Before Attempting the Assignment
+
+1. The participant needs to predict the category of Income an individual fits into.
+2. The prediction needs to be made by splitting data into 20% of test data.
+3. Build your model using data from training data.
+4. It is expected that the participant should use hyper parameter tuning and explore multiple classification algorithms.
+6. Use Sample notebook as a reference however it is expected that participant should use their own creative ways to build the model.
+
+To know more about the columns in data kindly refer to below link.
+
+Link: https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html
